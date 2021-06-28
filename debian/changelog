@@ -1,0 +1,6 @@
+openvas-smb (0.1) UNRELEASED; urgency=medium
+
+  [ root ]
+  * Initial release. (Closes: #XXXXXX)
+
+ -- rtkwlf <>  Fri, 25 Jun 2021 14:20:56 +0000

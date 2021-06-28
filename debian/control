@@ -1,0 +1,15 @@
+Source: openvas-smb
+Maintainer: arcticwolf
+Section: libs
+Priority: optional
+Standards-Version: 4.1.5
+Build-Depends: debhelper (>= 9)
+
+Package: openvas-smb
+Architecture: any
+Description: openvas-smb
+ This is the smb module for the OpenVAS Scanner.
+ .
+ It includes libraries (openvas-wmiclient/openvas-wincmd) to interface with
+ Microsoft Windows Systems through the Windows Management Instrumentation API
+ and a winexe binary to execute processes remotely on that system.
